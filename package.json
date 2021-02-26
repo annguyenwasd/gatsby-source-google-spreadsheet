@@ -18,7 +18,7 @@
   "dependencies": {
     "camelcase": "^5.0.0",
     "gatsby-node-helpers": "^0.3.0",
-    "node-sheets": "^1.0.0"
+    "node-sheets": "link:../node-sheets"
   },
   "resolutions": {
     "axios": "0.18.1"
