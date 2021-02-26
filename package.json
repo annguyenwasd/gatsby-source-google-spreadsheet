@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "Gatsby source plugin for all sheets in a Google Spreadsheet",
   "main": "index.js",
-  "homepage": "https://github.com/sondrele/gatsby-source-google-spreadsheet",
+  "homepage": "https://github.com/annguyenwasd/gatsby-source-google-spreadsheet",
   "repository": {
     "type": "git",
     "url": "https://github.com/sondrele/gatsby-source-google-spreadsheet"
